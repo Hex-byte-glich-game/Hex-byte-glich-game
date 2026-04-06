@@ -1,35 +1,104 @@
-# 💫 About Me
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│     ██╗  ██╗███████╗██╗  ██╗    ██████╗██╗   ██╗████████╗███████╗ │
+│     ██║  ██║██╔════╝╚██╗██╔╝    ██╔════╝██║   ██║╚══██╔══╝██╔════╝ │
+│     ███████║█████╗   ╚███╔╝     ██║     ██║   ██║   ██║   █████╗   │
+│     ██╔══██║██╔══╝   ██╔██╗     ██║     ██║   ██║   ██║   ██╔══╝   │
+│     ██║  ██║███████╗██╔╝ ██╗    ╚██████╗╚██████╔╝   ██║   ███████╗ │
+│     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     ╚═════╝ ╚═════╝    ╚═╝   ╚══════╝ │
+│                                                                    │
+│                    ░██████╗░██╗░░░░░░█████╗░██╗████████╗░█████╗░██╗░░██╗    │
+│                    ██╔════╝░██║░░░░░██╔══██╗██║╚══██╔══╝██╔══██╗██║░░██║    │
+│                    ██║░░██╗░██║░░░░░██║░░╚═╝██║░░░██║░░░██║░░╚═╝███████║    │
+│                    ██║░░╚██╗██║░░░░░██║░░██╗██║░░░██║░░░██║░░██╗██╔══██║    │
+│                    ╚██████╔╝███████╗╚█████╔╝██║░░░██║░░░╚█████╔╝██║░░██║    │
+│                    ░╚═════╝░╚══════╝░╚════╝░╚═╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝    │
+│                                                                    │
+│                      [ CODING THE MATRIX SINCE 2024 ]               │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 
-👋 **Hi, I'm Hex-Byte-Glich-Game**  
-📍 Based in the **USA** | 👨‍💻 Professional Programmer
+┌───[ ROOT ACCESS GRANTED ]───┐
+│                              │
+│  > LOCATION: USA UNDERGROUND │
+│  > STATUS: ELITE PROGRAMMER  │
+│  > HANDLE: Hex-Byte-Glich-Game│
+│  > MISSION: BREAK THE CODE   │
+│                              │
+└──────────────────────────────┘
 
-I build high-performance systems and immersive gaming experiences. My focus is on writing clean, efficient, and scalable code. I believe every line of code should serve a purpose and every bug has a solution waiting to be found.
+$ whoami
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  > I don't just write code. I manipulate bytes, exploit glitches, 
+    and bend systems to my will. Every line is a weapon. Every 
+    function is a strategy. Welcome to my digital battlefield.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🚀 **Currently building:** Advanced game mechanics & backend services.
-- 📚 **Learning:** Cloud architecture & AI integration.
-- 🎮 **Gaming dev focus:** C#/C++ for Unreal & Unity.
-- 🛠️ **Toolbox:** Full-stack development with a heavy lean towards databases and logic.
+$ cat skills.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🌐 Socials
+  [ LANGUAGES I SPEAK ]
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  > C++      ████████████████████░░░░  80%  [ SYSTEMS LEVEL ]    │
+  │  > C#       ████████████████████░░░░  80%  [ GAME DEV ]         │
+  │  > Python   ██████████████████░░░░░░  75%  [ EXPLOITS ]         │
+  │  > Lua      ██████████████░░░░░░░░░░  60%  [ SCRIPTING ]        │
+  │  > JS/PHP   ████████████░░░░░░░░░░░░  50%  [ WEB FRONT ]        │
+  └─────────────────────────────────────────────────────────────────┘
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5q4VWUQ9B4) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puthpolin) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@puthpolin728)
+  [ WEAPONS OF CHOICE ]
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  > MongoDB     [ DATA WARFARE ]                                 │
+  │  > MySQL       [ QUERY INJECTION ]                              │
+  │  > Cloudflare  [ DIGITAL SHIELD ]                               │
+  │  > Epic Games  [ BATTLEGROUND ]                                 │
+  └─────────────────────────────────────────────────────────────────┘
 
-## 💻 Tech Stack
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-| Category       | Technologies                                                                                                                                                                                                 |
-|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**  | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Databases**   | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)                                                                        |
-| **Cloud & Tools** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)                                                                                                    |
-| **Gaming**      | ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white)                                                                     |
+$ netstat -an | grep "CONNECTIONS"
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📊 GitHub Stats
+  [>] DISCORD    :  ACTIVE  →  https://discord.gg/5q4VWUQ9B4
+  [>] INSTAGRAM  :  ACTIVE  →  https://instagram.com/puthpolin
+  [>] YOUTUBE    :  ACTIVE  →  https://youtube.com/@puthpolin728
 
-![](https://github-readme-stats.vercel.app/api?username=Hex-byte-glich-game&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hex-byte-glich-game&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hex-byte-glich-game&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
-*Generated with precision | Last updated: 2026*
+$ ./github_stats --show
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ![](https://github-readme-stats.vercel.app/api?username=Hex-byte-glich-game&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41)
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Hex-byte-glich-game&theme=radical&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41)
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hex-byte-glich-game&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&layout=compact)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+$ echo "HACK THE PLANET" | md5sum
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  > 4a7d1ed414474e4033ac29ccb8653d9b
+  > 
+  > [ DECODED MESSAGE: "THE GLITCH IS THE FEATURE" ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│     ╔════════════════════════════════════════════════════════╗    │
+│     ║                                                        ║    │
+│     ║     ██████╗░██╗░░░██╗░██████╗██╗░░██╗░██████╗██████╗   ║    │
+│     ║     ██╔══██╗██║░░░██║██╔════╝██║░░██║██╔════╝██╔══██╗  ║    │
+│     ║     ██████╦╝██║░░░██║╚█████╗░███████║╚█████╗░██████╔╝  ║    │
+│     ║     ██╔══██╗██║░░░██║░╚═══██╗██╔══██║░╚═══██╗██╔══██╗  ║    │
+│     ║     ██████╦╝╚██████╔╝██████╔╝██║░░██║██████╔╝██║░░██║  ║    │
+│     ║     ╚═════╝░░╚═════╝░╚═════╝░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝  ║    │
+│     ║                                                        ║    │
+│     ╚════════════════════════════════════════════════════════╝    │
+│                                                                    │
+│              [ CTRL+C TO EXIT ] [ CTRL+Z TO SUSPEND ]             │
+│                         [ ACCESS GRANTED ]                         │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+
+$ █
